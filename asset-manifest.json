@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/reactwebsite/static/css/main.6342e9ed.css",
+    "main.js": "/reactwebsite/static/js/main.24e62edd.js",
+    "static/js/787.28cb0dcd.chunk.js": "/reactwebsite/static/js/787.28cb0dcd.chunk.js",
+    "static/media/1.jpg": "/reactwebsite/static/media/1.c9875a952acf819003c3.jpg",
+    "static/media/carousel-1.jpg": "/reactwebsite/static/media/carousel-1.4cc3608b65a9ae72d619.jpg",
+    "index.html": "/reactwebsite/index.html",
+    "main.6342e9ed.css.map": "/reactwebsite/static/css/main.6342e9ed.css.map",
+    "main.24e62edd.js.map": "/reactwebsite/static/js/main.24e62edd.js.map",
+    "787.28cb0dcd.chunk.js.map": "/reactwebsite/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6342e9ed.css",
+    "static/js/main.24e62edd.js"
+  ]
+}
